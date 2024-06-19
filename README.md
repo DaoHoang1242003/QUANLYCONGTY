@@ -106,6 +106,35 @@ Sơ đồ liên kết
 ![image](https://github.com/DaoHoang1242003/QUANLYCONGTY/assets/173042044/2e83d99e-37a4-4c60-8035-29ca3820ce33)
 
 
+# Thiết lạp chức năng
+
+## 1 Chức năng cơ bản
+
+* Lấy danh sách nhân viên
+
+  ![image](https://github.com/DaoHoang1242003/QUANLYCONGTY/assets/173042044/cac50fc9-f6dd-49e2-86af-3c3556b673f2)
+
+
+* Lấy danh sách dự án
+
+  ![image](https://github.com/DaoHoang1242003/QUANLYCONGTY/assets/173042044/0d7f873d-b4d9-46be-b345-7f0b61adad12)
+
+
+* Lấy danh sách phân công
+
+  ![image](https://github.com/DaoHoang1242003/QUANLYCONGTY/assets/173042044/cab7b30d-b5ce-4304-80cc-e5604a977058)
+
+
+
+- KẾT QUẢ
+
+ ![image](https://github.com/DaoHoang1242003/QUANLYCONGTY/assets/173042044/36b3ebf4-9f07-4898-85d7-ce42719bb648)
+
+
+
+
+
+
 
 
 
